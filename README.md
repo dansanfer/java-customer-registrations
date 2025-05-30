@@ -1,7 +1,7 @@
 Java Customer Registrations
 A simple Java console application that allows users to register, list, and remove customers. This project uses object-oriented programming principles and demonstrates basic interaction with user input.
 
-Features
+Features:
 Register users with name, email, and age
 
 Display all registered users
@@ -12,7 +12,7 @@ Menu-driven console interface
 
 Clean object-oriented structure
 
-Technologies
+Technologies:
 Java 17+
 
 IntelliJ IDEA
